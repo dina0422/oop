@@ -1,0 +1,11 @@
+2147 The 400 Blows                 Jean-Pierre Leaud   5.00  35 LesFilms
+2203 La Haine                      Vincent Cassel      5.00  35 Canal+
+2235 The Godfather                 Marlon Brando       7.00  26 Paramount_Pictures
+2281 The Godfather: Part II        Al Pacino           7.00  26 Paramount_Pictures
+2343 Man Bites Dog                 Remy Belvaux        5.00  35 LesArtites
+2389 The Departed                  Leonardo Dicaprio   5.00  32 WarnerBros
+2428 White Heat                    James Cagney        5.00  32 WarnerBros
+2477 The Dark Knight               Christian Bale      10.00 50 DCComics
+2516 Rango                         Johnny Depp         10.00 50 ParamountPictures
+2559 Transformers                  Shia LaBeouf        10.00 50 DreamWork
+

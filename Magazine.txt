@@ -1,0 +1,11 @@
+2104 Marie Clarie                  March     1984 11.50 12 Magazineado
+2189 The New Yorker                March     1987 11.50 12 Magazineado
+2222 Discovery Girls               March     2001 11.50 12 Magazineado
+2248 Motor Trend                   January   2005 11.50 12 Magazineado
+2278 Road & Track                  February  2005 11.50 12 Magazineado
+2317 Sky & Telescope               December  2005 10.90 15 Azure
+2389 Midwest Living                January   2010 10.90 15 NetworkAllied
+2438 Reader's Digest               April     1999 9.50  20 NetworkAllied
+2490 Popular Science               April     2015 9.50  20 NetworkAllied
+2529 Southern Magazine             April     2010 9.50  20 NetworkAllied
+     
